@@ -1,6 +1,11 @@
 # 💫 About Me:
-🎯 I’m currently working on:<br>Pursuing a master’s in Data Science at Northeastern University.<br><br>🤝 I’m looking to collaborate on:<br>AI/ML and data engineering projects.<br><br>🛠️ I’m looking for help with:<br>Exploring co-op opportunities starting Spring or Summer 2025.<br><br>🌱 I’m currently learning:<br>Advanced machine learning and data pipeline optimization.<br><br>💬 Ask me about:<br>AI/ML, data visualization, and problem-solving with data.<br><br>⚡ Fun fact:<br>I’m passionate about applying AI to solve impactful problems in healthcare and beyond!
-
+<img src="arjunprofile.png" alt="Arjun Pesaru" width="200" style="border-radius: 50%;"><br>
+🎯 I’m currently working on:<br>Pursuing a master’s in Data Science at Northeastern University.<br><br>
+🤝 I’m looking to collaborate on:<br>AI/ML and data engineering projects.<br><br>
+🛠️ I’m looking for help with:<br>Exploring co-op opportunities starting Spring or Summer 2025.<br><br>
+🌱 I’m currently learning:<br>Advanced machine learning and data pipeline optimization.<br><br>
+💬 Ask me about:<br>AI/ML, data visualization, and problem-solving with data.<br><br>
+⚡ Fun fact:<br>I’m passionate about applying AI to solve impactful problems in healthcare and beyond!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/arjun-pesaru/) 
@@ -15,4 +20,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ArjunPesaru&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
