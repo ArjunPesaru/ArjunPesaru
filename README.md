@@ -5,9 +5,9 @@
     <td style="width: 50%; vertical-align: top;">
       <ul>
         <li>🎯 I’m currently working on:<br>Pursuing a master’s in Data Science at Northeastern University.</li>
-        <li>🤝 I’m looking to collaborate on:<br>AI/ML and data engineering projects.</li>
-        <li>🛠️ I’m looking for help with:<br>Exploring co-op opportunities starting Spring or Summer 2025.</li>
-        <li>🌱 I’m currently learning:<br>Advanced machine learning and data pipeline optimization.</li>
+        <li>🤝 I’m looking to collaborate on:<br>AI/ML and data science projects.</li>
+        <li>🛠️ I’m looking for help with:<br>Exploring co-op opportunities starting Summer/Fall 2025.</li>
+        <li>🌱 I’m currently learning:<br>Advanced machine learning and MLOps.</li>
         <li>💬 Ask me about:<br>AI/ML, data visualization, and problem-solving with data.</li>
         <li>⚡ Fun fact:<br>I’m passionate about applying AI to solve impactful problems in healthcare and beyond!</li>
       </ul>
