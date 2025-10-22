@@ -9,7 +9,7 @@
         <li>🛠️ I’m looking for help with:<br>Exploring Full Time opportunities starting May 2026.</li>
         <li>🌱 I’m currently learning:<br>Advanced machine learning and MLOps.</li>
         <li>💬 Ask me about:<br>AI/ML, data visualization, and problem-solving with data.</li>
-        <li>⚡ Fun fact:<br>I’m passionate about applying AI to solve impactful problems in healthcare and beyond!</li>
+        <li>⚡ Fun fact:<br>I’m passionate about applying AI to solve impactful problems and beyond!</li>
       </ul>
     </td>
     <td style="width: 50%; text-align: center;">
