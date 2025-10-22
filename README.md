@@ -6,7 +6,7 @@
       <ul>
         <li>🎯 I’m currently working on:<br>Pursuing a master’s in Data Science at Northeastern University.</li>
         <li>🤝 I’m looking to collaborate on:<br>AI/ML and data science projects.</li>
-        <li>🛠️ I’m looking for help with:<br>Exploring co-op opportunities starting Summer/Fall 2025.</li>
+        <li>🛠️ I’m looking for help with:<br>Exploring Full Time opportunities starting May 2026.</li>
         <li>🌱 I’m currently learning:<br>Advanced machine learning and MLOps.</li>
         <li>💬 Ask me about:<br>AI/ML, data visualization, and problem-solving with data.</li>
         <li>⚡ Fun fact:<br>I’m passionate about applying AI to solve impactful problems in healthcare and beyond!</li>
